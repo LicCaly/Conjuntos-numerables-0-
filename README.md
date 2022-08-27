@@ -40,4 +40,15 @@ Cantor  En 1873  probó que los números enteros (ℤ) son numerables, es decir 
 
 ![image](https://user-images.githubusercontent.com/112264881/187044116-d987f8a8-7795-4677-87b1-f66e1d24f045.png)
 
-![image](https://user-images.githubusercontent.com/112264881/187044497-abcf650e-364f-414e-a5cf-a887cda83e45.png)
+
+Dos o mas conjuntos sean estos finitos o infinitos pueden terner la misma cardinalidad lo que los hace conjunto equipotentes
+> **Equipotente:** es un conjunto que tiene el mismo número de elementos que otro y en donde existe entre los dos una **relacion o correspondencia biunivoca** o una **biyeccion** cuando es posible establecer una relación uno a uno entre los conjuntos y de dice que es coordinable.
+
+> **Relacion o correspondencia biunivoca** En otras palabras, la relación biunívoca se establece cuando para cada elemento del primer conjunto le corresponde un solo elemento del segundo conjunto, tal elemento del segundo conjunto se corresponde con solo aquel elemento del primer conjunto tal que ningun sobre ni falte.
+
+ 
+![image](https://user-images.githubusercontent.com/112264881/187045374-fd1378c7-c327-440e-a5e8-400b2517e82f.png)
+
+
+![image](https://user-images.githubusercontent.com/112264881/187045382-beaf1d1e-9cdb-454e-b3b3-94f01f55215e.png)
+
